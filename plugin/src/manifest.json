@@ -19,15 +19,15 @@
         ]
     },
     "config": {
-        "html": "html/config.html",
+        "html": "",
         "js": [
             "https://js.cybozu.com/jquery/2.2.4/jquery.min.js",
-            "js/config.js"
+
         ],
         "css": [
             "css/51-modern-default.css",
-            "css/config.css"
+
         ],
-        "required_params": ["field-1", "require-field-1"]
+        "required_params":  
     }
 }
