@@ -15,7 +15,7 @@
     "icon": "image/check.png",
     "desktop": {
         "js": [
-            "js/desktop.js"
+            ""
         ]
     },
     "config": {
